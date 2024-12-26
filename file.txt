@@ -1,1 +1,3 @@
 New file
+
+new strings for multistring commit
